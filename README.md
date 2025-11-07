@@ -21,18 +21,9 @@ You can even add your own custom moves like "hammer" or "rifle" to make the game
 
 🧩 How to Play
 
-Clone this repository:
-
-git clone https://github.com/yourusername/rock-paper-scissors.git
-cd rock-paper-scissors
 
 
-Run the game:
 
-python main.py
-
-
-Follow the prompts, choose your move, and see who wins each round!
 
 🏆 Example Output
 Welcome to Rock, Paper, Scissors!
